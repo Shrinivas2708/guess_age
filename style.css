@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=KoHo:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap');
+
+#op{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    width: 98vw;
+}
+
+#yearInput{
+    display: block;
+}
+
+#heading_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white ;
+    font-family: 'KoHo', sans-serif;
+}
+
+.btn{
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 10px;
+}
+
+.form-control{
+    padding-right: 20px !important;
+}
+#noob{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.style_op{
+    
+    font-family: 'Roboto', sans-serif;
+    padding:20px ;
+    margin: 0 -20px;
+    font-size: 20px;
+    font: bolder;
+    border: 1px solid red;
+}
